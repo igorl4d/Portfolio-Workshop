@@ -21,7 +21,27 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
     Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
+/*Estilização de Tipográfia*/
 
+.texto-inicial {
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.titulo-inicial {
+  font-size: 36px;
+  font-weight: 900;
+}
+
+.subtitulo-inicial {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.titulo-sect {
+  font-size: 36px;
+  font-weight: 700;
+}
 /* Estilização de cabeçalho*/
 
 /* Estilização do butão toggle */
